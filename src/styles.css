@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(93, 139, 180);
+}
+
+.header {
+  background-color: lightcoral;
+  padding-left: 67px;
+}
+
+h3 {
+  padding-left: 55px;
+}
+
+#textbox {
+  position: relative;
+  bottom: 35px;
+  left: 155px;
+  height: 30px;
+  border-radius: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.keys {
+  width: 49%;
+  font-size: x-large;
+  position: relative;
+  left: 40%;
+  top: -10px;
+}
+
+.btn {
+  border: 1px solid black;
+}
+
+#minus,
+#multiply,
+#divison {
+  width: 35px;
+}
+
+#enter {
+  width: 68px;
+}
+
+#clear-btn {
+  width: 136px;
+}
+
+.display {
+  margin-left: 363px;
+}
+
