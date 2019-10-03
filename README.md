@@ -1,5 +1,5 @@
 # React-redux-calculator
-A simple React-redux based calculator.
+A simple React-redux based calculator to get understanding of react-redux
 
 To run this app do the following steps:
 
